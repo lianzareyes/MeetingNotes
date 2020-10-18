@@ -12,5 +12,5 @@ This page repo will also contain links to other important repos for the club, in
 
 The format for the filenames will be:
 
-{MM:DD:YYYY} - Club Meeting Number: {meetingNumber}
+{MM/DD/YYYY}_Club_Meeting_Number_{meetingNumber}
 
